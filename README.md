@@ -343,7 +343,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For any queries or support, please reach out to [your-email@example.com]
+For any queries or support, please reach out to [portfolio : https://sharathhn.netlify.app/] email :sharathhn613@gmail.com
 
 ---
 
